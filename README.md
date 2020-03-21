@@ -1,5 +1,10 @@
 # testQuestCard
 
+
+## GitHub Pages
+
+Ctr + right click mouse - https://dcstrong.github.io/DcStrong.gitgub.io/html/index.html 
+ 
 ## Gulp-задания
 
 TODO fix pug /html
