@@ -1,0 +1,4 @@
+app/dev
+app/dist
+node_modules
+.sonarlint
